@@ -36,7 +36,7 @@ export default function Cart({ isOpen, onClose, cart, updateQuantity, removeFrom
       alert('Please fill in all required details');
       return;
     }
-    const whatsappNumber = '919876543210'; // Replace with actual number
+    const whatsappNumber = '916303152569'; // Replace with actual number
     window.open(`https://wa.me/${whatsappNumber}?text=${generateWhatsAppMessage()}`, '_blank');
   };
 
