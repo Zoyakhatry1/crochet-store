@@ -47,7 +47,7 @@ export const products = [
     id: 8,
     name: 'Sunglasses Case',
     price: 800,
-    image: '/images/sunglassesgrey.jpg'
+    image: '/images/sunglassesGrey.jpg'
   },
   {
     id: 9,
